@@ -11,7 +11,7 @@
  
 - [x] Faça um Programa que peça as 4 notas bimestrais e mostre a média. ✔
 
-- [ ] Faça um Programa que converta metros para centímetros. 
+- [x] Faça um Programa que converta metros para centímetros. ✔
 
 - [ ] Faça um Programa que peça o raio de um círculo, calcule e mostre sua área. 
 
